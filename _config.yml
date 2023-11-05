@@ -1,11 +1,13 @@
 title: Akram Vasighizaker # your name (or website title) here
 logo: "/images/profile.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+    Experienced Data Scientist and Senior PhD Candidate with a Passion for Machine Learning & Data Science 
   <br><br>
-  Second description 
+  Helping the industry Achieve data-driven decision-making and innovation
   <br><br>
   <a href="https://www.linkedin.com/in/vasighi/">View My LinkedIn Profile</a> 
+  <a href="https://scholar.google.com/citations?user=mJSJoqIAAAAJ&hl=en">View My Google Scholar Profile</a> 
+  
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
