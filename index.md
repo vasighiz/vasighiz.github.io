@@ -5,11 +5,11 @@
 ### Category Name 1 
 
 
-NMF (https://vasighiz.github.io/TDMnewspapers-NMF/)
+[NMF] (https://vasighiz.github.io/TDMnewspapers-NMF/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-COMP8967 (https://vasighiz.github.io/COMP8967-1-R-2022S-Internship-Project-I/)
+[COMP8967] (https://vasighiz.github.io/COMP8967-1-R-2022S-Internship-Project-I/)
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
