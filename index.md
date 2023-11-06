@@ -4,8 +4,7 @@
 
 ### Category Name 1 
 
-
-[NMF] (https://vasighiz.github.io/TDMnewspapers-NMF/)
+<a href="[https://www.linkedin.com/in/vasighi/](https://vasighiz.github.io/TDMnewspapers-NMF/)"> NMF</a>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
