@@ -7,8 +7,7 @@
 <a href="https://github.com/vasighiz/COMP8967-1-R-2022S-Internship-Project-I/blob/main/COMP8967_1_R_2022S_Internship_Projectt_I.ipynb" target="_blank">Applied Machine Learning with Python</a>
 
 <a href="https://vasighiz.github.io/TDMnewspapers-NMF" target="_blank">TDMnewspapers-NMF</a>
-</br>
-#Using OCR Text Mining and NMF Topic Modeling to Analyze Historical Newspaper
+Using OCR Text Mining and NMF Topic Modeling to Analyze Historical Newspaper
 
 
 
