@@ -1,8 +1,8 @@
-## Portfolio
+## My Projects
 
 ---
 
-### My Projects
+<!-- ### My Projects --!>
 
 <a href="https://vasighiz.github.io/TDMnewspapers-NMF" target="_blank">NMF</a>
 
