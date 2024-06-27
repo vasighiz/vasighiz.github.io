@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-<a href="[(https://vasighiz.github.io/TDMnewspapers-NMF/)]" target="_blank">NMF</a>
+<a href="https://vasighiz.github.io/TDMnewspapers-NMF" target="_blank">NMF</a>
 
 
 ---
