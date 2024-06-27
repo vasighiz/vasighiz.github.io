@@ -8,7 +8,7 @@
 
 
 ---
-<a href="https://vasighiz.github.io/COMP8967-1-R-2022S-Internship-Project-I" target="_blank">[COMP8967]</a>
+<a href="https://github.com/vasighiz/COMP8967-1-R-2022S-Internship-Project-I/blob/main/COMP8967_1_R_2022S_Internship_Projectt_I.ipynb" target="_blank">[COMP8967]</a>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
