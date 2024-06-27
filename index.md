@@ -3,7 +3,7 @@
 ---
 
 
-###### Using Colab to review machine learning concepts from zero to hero!
+###### Using Google Colab to review machine learning concepts from zero to hero!
 <a href="https://github.com/vasighiz/COMP8967-1-R-2022S-Internship-Project-I/blob/main/COMP8967_1_R_2022S_Internship_Projectt_I.ipynb" target="_blank">Applied Machine Learning with Python</a>
 
 ---
@@ -12,7 +12,7 @@
 
 
 ---
-
+###### Cell-cell Interaction Prediction using GCNN and Single-cell RNA seq Data
 <a href="https://github.com/vasighiz/SEGCECO" target="_blank">SEGCECO: Subgraph Embedding of Gene expression matrix for prediction of CEll-cell COmmunication</a>
 
 
