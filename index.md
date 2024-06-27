@@ -4,10 +4,13 @@
 
 ### My Projects
 
+<a href="https://github.com/vasighiz/COMP8967-1-R-2022S-Internship-Project-I/blob/main/COMP8967_1_R_2022S_Internship_Projectt_I.ipynb" target="_blank">Practical Machine Learning with Python</a>
+
 <a href="https://vasighiz.github.io/TDMnewspapers-NMF" target="_blank">TDMnewspapers-NMF: Using OCR Text Mining and NMF Topic Modeling to Analyze Historical Newspaper</a>
 
 
-<a href="https://github.com/vasighiz/COMP8967-1-R-2022S-Internship-Project-I/blob/main/COMP8967_1_R_2022S_Internship_Projectt_I.ipynb" target="_blank">Practical Machine Learning with Python</a>
+
+<a href="https://github.com/vasighiz/SEGCECO" target="_blank">SEGCECO: Subgraph Embedding of Gene expression matrix for prediction of CEll-cell COmmunication</a>
 
 
 
